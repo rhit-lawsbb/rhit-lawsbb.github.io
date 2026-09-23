@@ -51,6 +51,9 @@ nav a:hover{
 }
 .home img{
     border-radius:20px;
+    width: 300px;
+    max-width: 80%;
+    height:auto;
 }
 .section{
     background-color:white;
@@ -58,6 +61,10 @@ nav a:hover{
     padding: 30px;
     border: 1px solid #d7deea;
     border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
 }
 .section h2{
     margin-top: 0;
