@@ -6,6 +6,11 @@ body{
     color:black;
     line-height:1.6;
 }
+.page{
+    width:86%;
+    margin:auto;
+    padding:60px 0;
+}
 
 nav{
     background-color:#12233f;
@@ -90,9 +95,6 @@ a:visited{
     border-radius: 6px;
     text-decoration: none;
 }
-.home a:visited{
-    color:#0a88d6
-}
 .home a:hover{
     background-color:#032565;
 }
@@ -112,7 +114,4 @@ footer p{
 footer a{
     color:white;
     margin-left:20px;
-}
-footer a:visited{
-    color:#9b74eb;
 }
